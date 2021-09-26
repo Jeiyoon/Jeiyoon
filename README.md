@@ -2,9 +2,6 @@
 
 <img src = "./img/jeyoona.png">
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-
-
 ## ⚙ TECH STACK ⚙   
 
 <img src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FFA41B?style=for-the-badge&logo=TensorFlow&logoColor=black"> 

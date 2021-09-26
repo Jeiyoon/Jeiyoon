@@ -1,6 +1,8 @@
+## 수습 연구원 제유나
+
 <img src = "./img/jeyoona.png">
 
-### 수습 연구원 제유나
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 <!--
 **Jeiyoon/Jeiyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

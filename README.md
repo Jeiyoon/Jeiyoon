@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FFA41B?style=for-the-badge&logo=TensorFlow&logoColor=black"> 
 
-<hr>
+<!-- <hr>
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jeiyoon&layout=compact">
@@ -15,11 +15,11 @@
   <a href="https://github-readme-stats.vercel.app/api?username=jeiyoon">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeiyoon" height="150"/>
   </a>
-</div>
+</div> -->
 
-<!-- <div align="center">       -->
+<div align="center">      
 
-<!-- <a href="https://jeiyoon.github.io/"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=jeiyoon&show_icons=true&theme=radical&title_color=7E6BC4&bg_color=FFF5EA%border_color=7E6BC4&text_color=C79ECF&count_private=true&icon_color=4A266A" />wi*quL3fcV<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=jeiyoon&theme=default&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" /></a> -->
+<a href="https://jeiyoon.github.io/"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=jeiyoon&show_icons=true&theme=radical&title_color=7E6BC4&bg_color=FFF5EA%border_color=7E6BC4&text_color=C79ECF&count_private=true&icon_color=4A266A" />wi*quL3fcV<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=jeiyoon&theme=default&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" /></a>
 
 
 	

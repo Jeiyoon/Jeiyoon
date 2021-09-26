@@ -1,6 +1,6 @@
 ## 수습 연구원 제유나 (Jeiyoon)
 
-<img src = "./imgs/jeyoona.png">
+<img src = "./imgs/jeyoona_or.png">
 
 ## Skills
 

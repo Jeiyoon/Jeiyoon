@@ -1,4 +1,4 @@
-## 수습 연구원 제유나
+## Who am I?: 수습 연구원 제유나
 
 <img src = "./imgs/jeyoona_or.png">
 

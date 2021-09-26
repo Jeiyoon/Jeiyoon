@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src = "./imgs/jeyoona.png" width="60%">
+
+### 수습 연구원 제유나
 
 <!--
 **Jeiyoon/Jeiyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

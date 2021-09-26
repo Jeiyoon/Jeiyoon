@@ -4,20 +4,7 @@
 
 ## Skills
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<img src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FFA41B?style=for-the-badge&logo=TensorFlow&logoColor=black"> 
-
-<!-- <hr>
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jeiyoon&layout=compact">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeiyoon&layout=compact" height="150"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=jeiyoon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeiyoon" height="150"/>
-  </a>
-</div> -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 
 <div align="center">      
 

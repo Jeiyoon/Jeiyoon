@@ -1,4 +1,4 @@
-<img src = "./img/jeyoona.png" width="60%">
+<img src = "./img/jeyoona.png">
 
 ### 수습 연구원 제유나
 

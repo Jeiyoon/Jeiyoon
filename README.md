@@ -2,7 +2,7 @@
 
 [<img src = "./imgs/jeyoona_or.png">](https://jeiyoon.github.io/)
 
-- I'm Self-starter, team player, and go-getter (See my [CV](https://jeiyoon.github.io/)))
+- I'm self-starter, team player, and go-getter (See my [CV](https://jeiyoon.github.io/) and codes that I've written))
 
 
 

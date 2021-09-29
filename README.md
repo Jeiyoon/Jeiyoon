@@ -2,7 +2,8 @@
 
 [<img src = "./imgs/jeyoona_or.png">](https://jeiyoon.github.io/)
 
-- g
+- I'm Self-starter, team player, and go-getter (See my [CV](https://jeiyoon.github.io/)))
+
 
 
 ## Skills

@@ -3,7 +3,7 @@
 [<img src = "./imgs/jeyoona_or.png">](https://jeiyoon.github.io/)
 
 - You should look at the [CV](https://jeiyoon.github.io/) and code that I've written
-- I have a solid background in Computer science
+- I have a solid background in computer science and mathematics
 - and I'm pretty much a self-starter, team player, and go-getter
 - You know, I'm kind of crazy
 

@@ -1,9 +1,10 @@
 ## Who am I?: [수습 연구원 제유나](https://jeiyoon.github.io/)
 
-steps:
-- title: What is GitHub?
-  description: After watching this video, close the first issue in your repository.
-  video: https://youtube.com/embed/w3jLJU7DT5E
+
+
+https://user-images.githubusercontent.com/56618962/135565143-98173da7-c9ae-41bc-863e-89bf21eb1819.mp4
+
+
 
 [<img src = "./imgs/jeyoona_or.png">](https://jeiyoon.github.io/)
 

@@ -3,6 +3,10 @@
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hUqxDUIM7NY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+{% include video id="VYOjWnS4cMY" provider="youtube" %}
+
+
 ## Who am I?: [수습 연구원 제유나](https://jeiyoon.github.io/)
 
 [<img src = "./imgs/jeyoona_or.png">](https://jeiyoon.github.io/)

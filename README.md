@@ -1,6 +1,3 @@
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=hUqxDUIM7NY)
-
-
 ## Who am I?: [수습 연구원 제유나](https://jeiyoon.github.io/)
 
 [<img src = "./imgs/jeyoona_or.png">](https://jeiyoon.github.io/)

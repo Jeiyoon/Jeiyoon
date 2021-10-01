@@ -1,6 +1,7 @@
 ## Who am I?: [수습 연구원 제유나](https://jeiyoon.github.io/)
 
 [<img src = "./imgs/jeyoona_or.png">](https://jeiyoon.github.io/)
+<video src="video.mp4" width="320" height="200" controls preload></video>
 
 - You should look at the [CV](https://jeiyoon.github.io/) and code that I've written
 - I have a solid background in computer science and mathematics

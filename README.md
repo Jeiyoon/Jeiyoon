@@ -1,6 +1,6 @@
 ## Who am I?: [수습 연구원 제유나](https://jeiyoon.github.io/)
 
-<video src="https://www.youtube.com/watch?v=hUqxDUIM7NY" width="320" height="200" controls preload></video>
+<video src="./vidoe/chef.mp4" width="320" height="200" controls preload></video>
 
 [<img src = "./imgs/jeyoona_or.png">](https://jeiyoon.github.io/)
 

@@ -2,9 +2,10 @@ https://user-images.githubusercontent.com/56618962/135565143-98173da7-c9ae-41bc-
 
 
 
-## Who am I?: [수습 연구원 제유나](https://jeiyoon.github.io/)
+## Who am I?
+<!-- : [수습 연구원 제유나](https://jeiyoon.github.io/) -->
 
-[<img src = "./imgs/jeyoona_or.png">](https://jeiyoon.github.io/)
+<!-- [<img src = "./imgs/jeyoona_or.png">](https://jeiyoon.github.io/) -->
 
 
 - You should look at the [CV](https://jeiyoon.github.io/) and code that I've written

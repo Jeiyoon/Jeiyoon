@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/56618962/135565143-98173da7-c9ae-41bc-
 <!-- : [수습 연구원 제유나](https://jeiyoon.github.io/) -->
 
 <!-- [<img src = "./imgs/jeyoona_or.png">](https://jeiyoon.github.io/) -->
-[<img src = "./imgs/my_life.png" width="70%">](https://tavewave.github.io/)
+[<img src = "./imgs/my_life.png" width="70%">](https://jeiyoon.github.io/)
 <!-- [<img src = "./imgs/my_life.png">](https://tavewave.github.io/) -->
 
 - You should look at the [CV](https://jeiyoon.github.io/) and code that I've written

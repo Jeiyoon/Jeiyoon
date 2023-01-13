@@ -23,6 +23,9 @@ https://user-images.githubusercontent.com/56618962/135565143-98173da7-c9ae-41bc-
 
 <div align="center">      
 
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeiyoon&show_icons=true&theme=dark)
+	
 <a href="https://jeiyoon.github.io/"><img height="160px" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeiyoon&show_icons=true&theme=dark)"/><img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=jeiyoon&theme=default&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" /></a>
 
 

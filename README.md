@@ -21,12 +21,12 @@ https://user-images.githubusercontent.com/56618962/135565143-98173da7-c9ae-41bc-
 <!--!https://github.com/badges/shields [BentoML](https://img.shields.io/badge/🍱　BentoML-brightgreen.svg?style=for-the-badge) -->
 
 
-## Stats
+<!--## Stats -->
 
-<div align="center">      
+<!--<div align="center">       -->
 
 	
-<a href="https://jeiyoon.github.io/"><img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeiyoon&&show_icons=true&theme=tokyonight"/><img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=jeiyoon&theme=tokyonight&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF"/></a> 
+<!--<a href="https://jeiyoon.github.io/"><img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeiyoon&&show_icons=true&theme=tokyonight"/><img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=jeiyoon&theme=tokyonight&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF"/></a>  -->
 
 
 <!--  <div align="center">
